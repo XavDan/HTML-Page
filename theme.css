@@ -1,0 +1,16 @@
+body {
+	padding: 10px 20%;
+	font-size: x-large;
+	
+}
+dt {
+	font-weight: bold;
+	color: red;
+	font-size: xx-large;
+	margin-top: 10px;
+}
+.breadcrumbs {
+	font-style: italic;
+	display: block;
+
+}
